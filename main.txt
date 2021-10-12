@@ -1,0 +1,5 @@
+Microsoft Access is a database management system from Microsoft that combines the relational Microsoft Jet Database Engine with a graphical user interface and software-development tools. It is a member of the Microsoft Office suite of applications, included in the Professional and higher editions or sold separately. Wikipedia
+Developed by: Microsoft Corporation
+License: Trialware
+Initial release: November 1992; 27 years ago
+Operating system: Microsoft Windows
